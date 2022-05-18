@@ -2,4 +2,4 @@
 A simple small game I made for practicing JS
 
 
-<iframe src="https://giphy.com/embed/8fAwuYncjIPyEXvl6G" width="480" height="277" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/8fAwuYncjIPyEXvl6G">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/8fAwuYncjIPyEXvl6G" width="480" height="277" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
